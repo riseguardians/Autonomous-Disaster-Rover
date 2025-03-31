@@ -1,0 +1,9 @@
+/home/ubuntum/bf_ext/build/articubot_one/CMakeFiles/uninstall.dir
+/home/ubuntum/bf_ext/build/articubot_one/CMakeFiles/articubot_one_uninstall.dir
+/home/ubuntum/bf_ext/build/articubot_one/CMakeFiles/test.dir
+/home/ubuntum/bf_ext/build/articubot_one/CMakeFiles/edit_cache.dir
+/home/ubuntum/bf_ext/build/articubot_one/CMakeFiles/rebuild_cache.dir
+/home/ubuntum/bf_ext/build/articubot_one/CMakeFiles/list_install_components.dir
+/home/ubuntum/bf_ext/build/articubot_one/CMakeFiles/install.dir
+/home/ubuntum/bf_ext/build/articubot_one/CMakeFiles/install/local.dir
+/home/ubuntum/bf_ext/build/articubot_one/CMakeFiles/install/strip.dir
